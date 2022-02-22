@@ -1,0 +1,39 @@
+.abc{
+	    display: flex;
+    justify-content: space-evenly;
+}
+.a1{
+    width: 200px;
+    height: 200px;
+}
+
+.one {
+	background-color: red;
+}
+.two{
+	background-color: yellow;
+}
+.three{
+	background-color: hotpink;
+}
+.four{
+	background-color: dimgray;
+}
+.boxing{
+	display: flex;
+    justify-content: space-evenly;
+ }
+.a2{
+	 width: 200px;
+    height: 200px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.ok1{
+	 width: 100px;
+    height: 100px;
+    background-color: black;
+}
